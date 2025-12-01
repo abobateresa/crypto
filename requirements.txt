@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+requests
+ecdsa
+base58
